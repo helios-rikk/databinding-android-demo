@@ -4,11 +4,11 @@
 
    <data>
 
-      <import type="com.kupferwerk.androiddatabinding.utils.DateUtils" />
+      <import type="com.namhv.firebase.utils.DateUtils" />
 
       <variable
          name="movie"
-         type="com.kupferwerk.androiddatabinding.model.Movie" />
+         type="com.namhv.firebase.model.Movie" />
    </data>
 
    <ScrollView

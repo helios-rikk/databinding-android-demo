@@ -1,4 +1,4 @@
-package com.kupferwerk.androiddatabinding;
+package com.namhv.firebase;
 
 import android.databinding.DataBindingUtil;
 import android.support.v7.widget.RecyclerView;
@@ -6,8 +6,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.kupferwerk.androiddatabinding.databinding.ListItemBinding;
-import com.kupferwerk.androiddatabinding.model.Movie;
+import com.namhv.firebase.databinding.ListItemBinding;
+import com.namhv.firebase.model.Movie;
 
 import java.util.List;
 

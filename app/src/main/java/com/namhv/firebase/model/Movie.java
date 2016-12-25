@@ -1,9 +1,9 @@
-package com.kupferwerk.androiddatabinding.model;
+package com.namhv.firebase.model;
 
 import android.databinding.BaseObservable;
 import android.databinding.Bindable;
 
-import com.kupferwerk.androiddatabinding.BR;
+import com.namhv.firebase.BR;
 
 import java.util.Date;
 

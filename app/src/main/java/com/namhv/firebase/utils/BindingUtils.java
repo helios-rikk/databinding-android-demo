@@ -1,4 +1,4 @@
-package com.kupferwerk.androiddatabinding.utils;
+package com.namhv.firebase.utils;
 
 import android.databinding.BindingAdapter;
 import android.widget.ImageView;

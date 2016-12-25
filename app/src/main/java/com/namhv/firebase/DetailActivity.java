@@ -1,4 +1,4 @@
-package com.kupferwerk.androiddatabinding;
+package com.namhv.firebase;
 
 import android.content.Context;
 import android.content.Intent;
@@ -7,10 +7,10 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.kupferwerk.androiddatabinding.databinding.ActivityDetailBinding;
-import com.kupferwerk.androiddatabinding.model.Movie;
-import com.kupferwerk.androiddatabinding.model.MovieStore;
-import com.kupferwerk.androiddatabinding.utils.DateUtils;
+import com.namhv.firebase.databinding.ActivityDetailBinding;
+import com.namhv.firebase.model.Movie;
+import com.namhv.firebase.model.MovieStore;
+import com.namhv.firebase.utils.DateUtils;
 
 public class DetailActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.kupferwerk.androiddatabinding;
+package com.namhv.firebase;
 
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
@@ -8,10 +8,10 @@ import android.support.v7.widget.RecyclerView;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.kupferwerk.androiddatabinding.databinding.ActivityMainBinding;
-import com.kupferwerk.androiddatabinding.model.Movie;
-import com.kupferwerk.androiddatabinding.model.MovieStore;
-import com.kupferwerk.androiddatabinding.utils.ModifyInBackgroundTask;
+import com.namhv.firebase.databinding.ActivityMainBinding;
+import com.namhv.firebase.model.Movie;
+import com.namhv.firebase.model.MovieStore;
+import com.namhv.firebase.utils.ModifyInBackgroundTask;
 
 public class MainActivity extends AppCompatActivity {
 
