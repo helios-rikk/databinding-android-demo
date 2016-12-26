@@ -1,6 +1,7 @@
 <resources>
-   <string name="app_name">AndroidDatabinding</string>
+    <string name="app_name">Firebase Analytics</string>
 
-   <string name="action_modify">Modify In Background</string>
-   <string name="save">Save</string>
+    <string name="action_setting">Modify</string>
+    <string name="save">Save</string>
+    <string name="title_activity_setting_profile">SettingProfile</string>
 </resources>
